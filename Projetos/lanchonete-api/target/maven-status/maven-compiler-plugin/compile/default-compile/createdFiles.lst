@@ -1,0 +1,7 @@
+lanchonete\api\infrastructure\repositories\UnidadeRepository.class
+lanchonete\api\domain\entities\Unidade.class
+lanchonete\api\api\dtos\UnidadeResponse.class
+lanchonete\api\LanchoneteApiApplication.class
+lanchonete\api\api\controllers\UnidadeController.class
+lanchonete\api\api\controllers\HealthController.class
+lanchonete\api\api\dtos\UnidadeRequest.class

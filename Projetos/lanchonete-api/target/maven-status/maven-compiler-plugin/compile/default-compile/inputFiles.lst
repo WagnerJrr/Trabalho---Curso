@@ -1,0 +1,12 @@
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\api\controllers\HealthController.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\api\controllers\ProdutoController.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\api\controllers\UnidadeController.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\api\dtos\ProdutoRequest.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\api\dtos\ProdutoResponse.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\api\dtos\UnidadeRequest.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\api\dtos\UnidadeResponse.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\domain\entities\Produto.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\domain\entities\Unidade.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\infrastructure\repositories\ProdutoRepository.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\infrastructure\repositories\UnidadeRepository.java
+C:\Projetos\lanchonete-api\src\main\java\lanchonete\api\LanchoneteApiApplication.java
